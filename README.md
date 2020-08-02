@@ -8,4 +8,5 @@ I have incorporated the following features in the game:
 3) It checks for the winner after each turn.
 4) It also checks if the game board is full & hence halts the match in case of a draw.
 5) The players can choose their markers between "X" & "O"
+
 [![Run on Repl.it](https://repl.it/badge/github/ZainRazaShah/TicTacToe_Game_Python)](https://repl.it/github/ZainRazaShah/TicTacToe_Game_Python)
